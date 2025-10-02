@@ -91,7 +91,7 @@ Team Mentor : Mr. Abhinav Sharma
 ### How-to-run
 Download NodeJS from the Official website link (if not installed).
 
-### Clone this Repository.
+Clone this Repository.
 
 Open the cloned repository in your code editor.
 

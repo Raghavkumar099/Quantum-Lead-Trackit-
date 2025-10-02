@@ -58,9 +58,9 @@ To this day, the Indian railway network operates without a unified, modern platf
 ### Important URLs :
 ⭐️ Live Application Link: [To be added]
 
-⭐️ Demo Video Link: Click Here to View
+⭐️ Demo Video Link:[link](https://youtu.be/FAhKryubdTo)
 
-⭐️ Project Presentation: Click Here to View
+⭐️ Project Presentation: [Link](https://youtu.be/Sahed24SbGk)
 
 ⭐️ Project Report: [To be added]
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="80" src="image.jpg" alt="Trackit_logo" />
+  <img align="center" width="80" src="https://github.com/Raghavkumar099/Quantum-Lead-Trackit-/blob/main/UI/Trackit_logo.jpg?raw=true.jpg" alt="Trackit_logo" />
 </p>
 
 <h2 align="center">AI-Powered Precise Train Traffic Control</h2>

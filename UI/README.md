@@ -9,10 +9,6 @@
 </p>
 <h2 align="center">COMPLETE DESCRIPTION</h2>
 
-### PS ID : SIH25022
-### Team ID : 52985
-### Idea ID : 58689
-### Ministry : Ministry of Railways, Government of India.
 ### PS Title :
 Maximizing section throughput using AI-powered train traffic control
 
@@ -65,7 +61,7 @@ To this day, the Indian railway network operates without a unified, modern platf
 ⭐️ Project Report: [To be added]
 
 ### Project Created & Maintained By
-❤️ Team - Quantum Lead
+  Team - Quantum Lead
 
 Raghav Kumar
 
@@ -100,7 +96,3 @@ Run the command npm i to install all the necessary packages.
 
 Then run the command npm start to start the application in your local machine.
 
-### Support
-💙 If you like this project, give it a '⭐' and share it with your friends! You are free to send us PRs and issues. We'd love to help and improve this.
-
-<h1 align="center">🙏 THANK YOU 🙏</h1>

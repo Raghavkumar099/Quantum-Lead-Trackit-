@@ -1,1 +1,8 @@
 node_modules
+*.csv
+*.log
+*.txt
+*.xlsx
+__pycache__
+.ipynb_checkpoints
+.DS_Store

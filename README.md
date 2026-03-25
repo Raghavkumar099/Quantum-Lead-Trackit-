@@ -68,8 +68,7 @@ TrackIT is an AI-powered traffic control system designed for the Indian railway 
 
 ## Useful Links
 
-- [Demo Video](https://youtu.be/FAhKryubdTo)
-- [Project Presentation](https://youtu.be/Sahed24SbGk)
+- [Prototype](https://youtu.be/Sahed24SbGk)
 
 ## License
 

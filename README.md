@@ -27,7 +27,7 @@ TrackIT is an AI-powered traffic control system designed for the Indian railway 
 - **Frontend:** Next.js, React, Tailwind CSS, Radix UI
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **ML/Simulation:** Python (pandas, numpy, scikit-learn, matplotlib, joblib)
+- **ML/Simulation:** Python (pandas, numpy, scikit-learn, matplotlib, joblib, Constrained Deep Reinforcement Learning (PPO + Safety Layer))
 - **Deployment:** Render
 
 ## Setup Instructions
@@ -69,7 +69,3 @@ TrackIT is an AI-powered traffic control system designed for the Indian railway 
 ## Useful Links
 
 - [Prototype](https://youtu.be/Sahed24SbGk)
-
-## License
-
-This project is for academic and demonstration purposes only.

@@ -36,3 +36,4 @@ __pycache__/
 # dataset files
 *.csv
 *.xlsx
+*datasets/*
